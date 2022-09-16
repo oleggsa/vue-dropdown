@@ -9,7 +9,6 @@ export default {
   name: 'App',
   components: {
     Dropdown
-
   }
 }
 </script>
@@ -19,6 +18,7 @@ body {
   box-sizing: border-box;
   margin: 0;
   padding: 0;
+  height: 600px;
 }
 *, *::before, *::after {
   box-sizing: border-box;
